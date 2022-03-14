@@ -1,0 +1,11 @@
+/* Navbar Area */
+
+.h1, h1 {
+    font-size: 2.5rem;
+    color: white;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+}
